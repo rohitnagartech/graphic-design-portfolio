@@ -12,6 +12,15 @@
 
 🧾 Posters & Banners
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/09c7bdff-8111-4537-bbdf-6e2699e9615f" width="32%" /> <img src="https://github.com/user-attachments/assets/91c0b380-b008-4fe6-ab05-f022ff1da209" width="32%" /> <img src="https://github.com/user-attachments/assets/10e47dbe-b020-4bd1-acf6-8d4227e13a0c" width="32%" /> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09c7bdff-8111-4537-bbdf-6e2699e9615f" width="30%">
+  <img src="https://github.com/user-attachments/assets/91c0b380-b008-4fe6-ab05-f022ff1da209" width="30%">
+  <img src="https://github.com/user-attachments/assets/10e47dbe-b020-4bd1-acf6-8d4227e13a0c" width="30%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c35acb92-b272-4ee0-acc6-806deec31f41" width="30%">
+  <img src="https://github.com/user-attachments/assets/c8aae28c-417e-4c79-84b3-5b90ec740cb9" width="30%">
+  <img src="https://github.com/user-attachments/assets/7b72d483-eb68-4367-a601-bb04162103c0" width="30%">
+</p>
 
 
