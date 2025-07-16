@@ -41,6 +41,12 @@ This portfolio highlights my passion for designing impactful **logos**, engaging
   <img src="https://github.com/user-attachments/assets/9e437211-b857-44ec-ad96-3382d4d6f532" width="22%" />
   <img src="https://github.com/user-attachments/assets/7f84ee34-efb5-4288-abb2-107d1e57090c" width="22%" />
   <img src="https://github.com/user-attachments/assets/6c1d739a-ee25-4b78-b9f5-84484d0407bd" width="22%" />
+  <img src="https://github.com/user-attachments/assets/3dea522f-db8b-4e52-ac11-bb3f049e9c58" width="22%" /> 
+  <img src="https://github.com/user-attachments/assets/0f6b85e8-4cc3-49c1-a1a2-44c70e6974a9" width="22%" /> 
+  <img src="https://github.com/user-attachments/assets/55ffe3f2-0958-4651-b697-aeb75a59a723" width="22%" /> 
+  <img src="https://github.com/user-attachments/assets/5e03a983-9d81-4dad-ac41-6806fa4ad6fa" width="22%" /> 
+  <img src="https://github.com/user-attachments/assets/ecc236d4-6501-40c6-87da-4882f7a40278" width="22%" /> 
+  <img src="https://github.com/user-attachments/assets/c891fbd7-ac57-4107-9920-39d681ac7803" width="22%" />
 </p>
 
 ---
