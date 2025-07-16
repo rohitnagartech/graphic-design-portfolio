@@ -1,40 +1,69 @@
-🖼️ Logo Designs
-<p align="center">  <img src="https://github.com/user-attachments/assets/a3d72d44-60c0-487a-a612-4e96dc5ffa9a" width="22%" /> <img src="https://github.com/user-attachments/assets/05785e3b-f2e6-41be-b08d-7c53de1e620f" width="22%" /> <img src="https://github.com/user-attachments/assets/7f932633-4aaf-4472-ab22-f88295fc9a4e" width="22%" /> <img src="https://github.com/user-attachments/assets/8f180701-ed36-4f96-bf35-c37533c280d4" width="22%" /> <img src="https://github.com/user-attachments/assets/bf88f47f-8d39-4933-9082-42735dc2e425" width="22%" /> <img src="https://github.com/user-attachments/assets/b57b46b2-12df-4d56-ab86-894930e8ac4d" width="22%" /> <img src="https://github.com/user-attachments/assets/d479c66d-d5dc-42bf-ac0d-0db6ec81a0e7" width="22%" /> <img src="https://github.com/user-attachments/assets/bf88f47f-8d39-4933-9082-42735dc2e425" width="22%" /> <img src="https://github.com/user-attachments/assets/f5ac23f3-7758-4997-bdfb-28befe8f29c5" width="22%" /> <img src="https://github.com/user-attachments/assets/017147d5-b3c3-4f97-bae4-3fda2304e8ee" width="22%" /> <img src="https://github.com/user-attachments/assets/0f2eda6a-157e-40ba-8f10-c6738b9657dc" width="22%" />  <img src="https://github.com/user-attachments/assets/ac6a982a-0ade-409d-b0b2-e8936569e522" width="22%" />
-</p> <p align="center"> <img src="https://github.com/user-attachments/assets/a8b38db5-74b6-4d1c-aa68-f13e57044ab6" width="22%" /> <img src="https://github.com/user-attachments/assets/42a0fb76-22cf-4341-8dab-094640e0d320" width="22%" /> <img src="https://github.com/user-attachments/assets/4e689817-7798-4bef-b0e9-08f6368be179" width="22%" /> <img src="https://github.com/user-attachments/assets/8ceccedd-2d6a-486c-84cc-cc0618a4a0c7" width="22%" /> </p>
+# 🎨 Rohit Nagar — Creative Design Portfolio
 
-📱 Social Media Posts
+Welcome to my **visual journey** in the world of digital design! Here's a glimpse into my work across:
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/72bcf1ee-1384-4af6-ae8e-27fb3cc7b0b5" width="22%" /> <img src="https://github.com/user-attachments/assets/71e6730b-1d4c-4283-a9f4-caa613dd9803" width="22%" /> <img src="https://github.com/user-attachments/assets/bc80d532-b640-4fff-8e24-1613f32f5602" width="22%" /> <img src="https://github.com/user-attachments/assets/c6b10819-48cd-4762-9331-39e8191d871d" width="22%" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/99ce5ede-d4e2-4375-b9c8-142a3a3849d4" width="22%" /> <img src="https://github.com/user-attachments/assets/8a66df38-0c61-4337-9ae3-1f4378095bf7" width="22%" /> <img src="https://github.com/user-attachments/assets/8418b103-6fd7-4616-b507-452c2b8f126a" width="22%" /> <img src="https://github.com/user-attachments/assets/9e437211-b857-44ec-ad96-3382d4d6f532" width="22%" /> </p>
+- 🎯 Logo Designs  
+- 📱 Social Media Creatives  
+- 🧾 Promotional Posters & Banners  
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/7f84ee34-efb5-4288-abb2-107d1e57090c" width="22%" /> <img src="https://github.com/user-attachments/assets/6c1d739a-ee25-4b78-b9f5-84484d0407bd" width="22%" /> <img src="https://github.com/user-attachments/assets/95d0d8f8-31ea-43d3-8858-7ecfe8ebab8c" width="22%" /> <img src="https://github.com/user-attachments/assets/b2980b33-9e60-4f1c-9dd2-4accea65788f" width="22%" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/62c3935a-9c3c-4d76-bbd5-cd90728d1851" width="22%" /> <img src="https://github.com/user-attachments/assets/30e2268f-7ab8-4cb6-bb0a-9a484dd1a4c9" width="22%" /> <img src="https://github.com/user-attachments/assets/2148d15f-9713-4851-a37f-e4a794c73031" width="22%" /> <img src="https://github.com/user-attachments/assets/24aec4e6-a107-402d-98c7-4118fcf296e5" width="22%" /> </p>
+Each piece was designed with precision, purpose, and a passion for storytelling through visuals.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/75e625a8-1dc0-43c0-ac43-02bd00fc48d3" width="22%" /> <img src="https://github.com/user-attachments/assets/fd4340f3-b8be-457a-b5ac-7d6c501ddd1c" width="22%" /> <img src="https://github.com/user-attachments/assets/fc935cd3-8363-4a63-bb39-cd00d994b7c1" width="22%" /> <img src="https://github.com/user-attachments/assets/7e060e94-585c-4837-a777-05055a5bc85a" width="22%" /> </p> <p align="center"> <img src="https://github.com/user-attachments/assets/bc803083-b164-4906-a7f4-0fe3baa1cdbb" width="22%" /> <img src="https://github.com/user-attachments/assets/c9c9e080-9ce3-4240-af2b-6f7893d261a9" width="22%" /> <img src="https://github.com/user-attachments/assets/30772c6f-0b9f-489f-b447-249a25837287" width="22%" /> <img src="https://github.com/user-attachments/assets/24aec4e6-a107-402d-98c7-4118fcf296e5" width="22%" /> </p>
+---
 
-🧾 Posters & Banners
+## 🖼️ Logo Designs
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a3d72d44-60c0-487a-a612-4e96dc5ffa9a" width="22%" />
+  <img src="https://github.com/user-attachments/assets/05785e3b-f2e6-41be-b08d-7c53de1e620f" width="22%" />
+  <img src="https://github.com/user-attachments/assets/7f932633-4aaf-4472-ab22-f88295fc9a4e" width="22%" />
+  <img src="https://github.com/user-attachments/assets/8f180701-ed36-4f96-bf35-c37533c280d4" width="22%" />
+  <img src="https://github.com/user-attachments/assets/bf88f47f-8d39-4933-9082-42735dc2e425" width="22%" />
+  <img src="https://github.com/user-attachments/assets/b57b46b2-12df-4d56-ab86-894930e8ac4d" width="22%" />
+  <img src="https://github.com/user-attachments/assets/d479c66d-d5dc-42bf-ac0d-0db6ec81a0e7" width="22%" />
+  <img src="https://github.com/user-attachments/assets/f5ac23f3-7758-4997-bdfb-28befe8f29c5" width="22%" />
+  <img src="https://github.com/user-attachments/assets/017147d5-b3c3-4f97-bae4-3fda2304e8ee" width="22%" />
+  <img src="https://github.com/user-attachments/assets/0f2eda6a-157e-40ba-8f10-c6738b9657dc" width="22%" />
+</p>
+
+---
+
+## 📱 Social Media Posts
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72bcf1ee-1384-4af6-ae8e-27fb3cc7b0b5" width="22%" />
+  <img src="https://github.com/user-attachments/assets/71e6730b-1d4c-4283-a9f4-caa613dd9803" width="22%" />
+  <img src="https://github.com/user-attachments/assets/bc80d532-b640-4fff-8e24-1613f32f5602" width="22%" />
+  <img src="https://github.com/user-attachments/assets/c6b10819-48cd-4762-9331-39e8191d871d" width="22%" />
+  <img src="https://github.com/user-attachments/assets/99ce5ede-d4e2-4375-b9c8-142a3a3849d4" width="22%" />
+  <img src="https://github.com/user-attachments/assets/8a66df38-0c61-4337-9ae3-1f4378095bf7" width="22%" />
+  <img src="https://github.com/user-attachments/assets/8418b103-6fd7-4616-b507-452c2b8f126a" width="22%" />
+  <img src="https://github.com/user-attachments/assets/9e437211-b857-44ec-ad96-3382d4d6f532" width="22%" />
+</p>
+
+---
+
+## 🧾 Posters & Banners
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/09c7bdff-8111-4537-bbdf-6e2699e9615f" width="30%">
   <img src="https://github.com/user-attachments/assets/91c0b380-b008-4fe6-ab05-f022ff1da209" width="30%">
   <img src="https://github.com/user-attachments/assets/10e47dbe-b020-4bd1-acf6-8d4227e13a0c" width="30%">
-</p>
-<p align="center">
   <img src="https://github.com/user-attachments/assets/c35acb92-b272-4ee0-acc6-806deec31f41" width="30%">
   <img src="https://github.com/user-attachments/assets/c8aae28c-417e-4c79-84b3-5b90ec740cb9" width="30%">
   <img src="https://github.com/user-attachments/assets/7b72d483-eb68-4367-a601-bb04162103c0" width="30%">
-</p>
-<p align="center">
   <img src="https://github.com/user-attachments/assets/7716e545-d946-4fc9-a419-44d75b24d380" width="30%">
   <img src="https://github.com/user-attachments/assets/ab6d8945-e4c4-4f63-a2d9-78be23473ef2" width="30%">
   <img src="https://github.com/user-attachments/assets/0a769049-cfde-475d-8137-ec506abb5c65" width="30%">
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/db2189fc-f2e4-4f58-a394-749b72de27ef" width="30%">
-  <img src="https://github.com/user-attachments/assets/baef4cdd-e916-4613-a4bc-54860284f3b8" width="30%">
-  <img src="https://github.com/user-attachments/assets/8a747cf2-9bbb-4c39-9ff5-1085b65cd6cd" width="30%">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6e406b1a-604c-4ef8-adfd-8bb6ae7176d1" width="30%">
-  <img src="https://github.com/user-attachments/assets/08ff5721-8399-4833-8dd1-587a5cfcd105" width="30%">
-  <img src="https://github.com/user-attachments/assets/b012a2eb-8bfb-4afd-97cb-54508a9a4c82" width="30%">
-</p>
 
+---
+
+### 🚀 Let's Collaborate!
+
+If you liked what you saw and want a creative mind to bring your ideas to life — let's connect.
+
+- 📧 rohitnagarttech124@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-nagar-783902315)  
+- 💻 [GitHub](https://github.com/rohitnagarttech)  
+
+> *\"Design is where science and art break even.\" — Robin Mathew*
