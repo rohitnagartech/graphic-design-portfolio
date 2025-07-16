@@ -1,12 +1,7 @@
-# 🎨 Rohit Nagar — Creative Design Portfolio
+# 🎨 Rohit Nagar | Design Portfolio
 
-Welcome to my **visual journey** in the world of digital design! Here's a glimpse into my work across:
-
-- 🎯 Logo Designs  
-- 📱 Social Media Creatives  
-- 🧾 Promotional Posters & Banners  
-
-Each piece was designed with precision, purpose, and a passion for storytelling through visuals.
+Welcome to my creative world where pixels meet purpose!  
+This portfolio highlights my passion for designing impactful **logos**, engaging **social media posts**, and visually powerful **posters & banners**.
 
 ---
 
@@ -38,6 +33,8 @@ Each piece was designed with precision, purpose, and a passion for storytelling 
   <img src="https://github.com/user-attachments/assets/8a66df38-0c61-4337-9ae3-1f4378095bf7" width="22%" />
   <img src="https://github.com/user-attachments/assets/8418b103-6fd7-4616-b507-452c2b8f126a" width="22%" />
   <img src="https://github.com/user-attachments/assets/9e437211-b857-44ec-ad96-3382d4d6f532" width="22%" />
+  <img src="https://github.com/user-attachments/assets/7f84ee34-efb5-4288-abb2-107d1e57090c" width="22%" />
+  <img src="https://github.com/user-attachments/assets/6c1d739a-ee25-4b78-b9f5-84484d0407bd" width="22%" />
 </p>
 
 ---
@@ -45,25 +42,39 @@ Each piece was designed with precision, purpose, and a passion for storytelling 
 ## 🧾 Posters & Banners
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09c7bdff-8111-4537-bbdf-6e2699e9615f" width="30%">
-  <img src="https://github.com/user-attachments/assets/91c0b380-b008-4fe6-ab05-f022ff1da209" width="30%">
-  <img src="https://github.com/user-attachments/assets/10e47dbe-b020-4bd1-acf6-8d4227e13a0c" width="30%">
-  <img src="https://github.com/user-attachments/assets/c35acb92-b272-4ee0-acc6-806deec31f41" width="30%">
-  <img src="https://github.com/user-attachments/assets/c8aae28c-417e-4c79-84b3-5b90ec740cb9" width="30%">
-  <img src="https://github.com/user-attachments/assets/7b72d483-eb68-4367-a601-bb04162103c0" width="30%">
-  <img src="https://github.com/user-attachments/assets/7716e545-d946-4fc9-a419-44d75b24d380" width="30%">
-  <img src="https://github.com/user-attachments/assets/ab6d8945-e4c4-4f63-a2d9-78be23473ef2" width="30%">
-  <img src="https://github.com/user-attachments/assets/0a769049-cfde-475d-8137-ec506abb5c65" width="30%">
+  <img src="https://github.com/user-attachments/assets/09c7bdff-8111-4537-bbdf-6e2699e9615f" width="30%" />
+  <img src="https://github.com/user-attachments/assets/91c0b380-b008-4fe6-ab05-f022ff1da209" width="30%" />
+  <img src="https://github.com/user-attachments/assets/10e47dbe-b020-4bd1-acf6-8d4227e13a0c" width="30%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c35acb92-b272-4ee0-acc6-806deec31f41" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c8aae28c-417e-4c79-84b3-5b90ec740cb9" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7b72d483-eb68-4367-a601-bb04162103c0" width="30%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7716e545-d946-4fc9-a419-44d75b24d380" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ab6d8945-e4c4-4f63-a2d9-78be23473ef2" width="30%" />
+  <img src="https://github.com/user-attachments/assets/0a769049-cfde-475d-8137-ec506abb5c65" width="30%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db2189fc-f2e4-4f58-a394-749b72de27ef" width="30%" />
+  <img src="https://github.com/user-attachments/assets/baef4cdd-e916-4613-a4bc-54860284f3b8" width="30%" />
+  <img src="https://github.com/user-attachments/assets/8a747cf2-9bbb-4c39-9ff5-1085b65cd6cd" width="30%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e406b1a-604c-4ef8-adfd-8bb6ae7176d1" width="30%" />
+  <img src="https://github.com/user-attachments/assets/08ff5721-8399-4833-8dd1-587a5cfcd105" width="30%" />
+  <img src="https://github.com/user-attachments/assets/b012a2eb-8bfb-4afd-97cb-54508a9a4c82" width="30%" />
 </p>
 
 ---
 
-### 🚀 Let's Collaborate!
+## 👋 Let's Work Together
 
-If you liked what you saw and want a creative mind to bring your ideas to life — let's connect.
+🎯 Whether you're a startup, a growing brand, or an individual creator —  
+**Your visual identity matters, and I'm here to make it unforgettable.**
 
-- 📧 rohitnagarttech124@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-nagar-783902315)  
-- 💻 [GitHub](https://github.com/rohitnagarttech)  
+📬 Reach out at: **rohitnagarttech124@gmail.com**  
+🔗 Connect on: [LinkedIn](https://www.linkedin.com/in/rohit-nagar-783902315) | [GitHub](https://github.com/rohitnagarttech)
 
-> *\"Design is where science and art break even.\" — Robin Mathew*
+> _"Design is intelligence made visible."_ — Alina Wheeler
